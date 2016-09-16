@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Imgur Downloader 2.0
-// @namespace    http://testscrpt.com
+// @namespace    http://smugzombie.com
 // @version      0.1
 // @description  Downloads Images from Imgur
 // @author       Regli (ron@r-egli)

@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Password Show-er
-// @namespace    https://raw.github.com/SmugZombie/GreaseMonkey/PasswordShow-er.js
+// @namespace    https://raw.githubusercontent.com/SmugZombie/GreaseMonkey/master/PasswordShow-er.js
 // @version      0.1
 // @description  Shows stored passwords
 // @author       ron.egli@smugzombie.com
